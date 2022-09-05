@@ -4,7 +4,7 @@
       <div class="px-4 text-center">
         <img
           class="logo d-block mx-auto img-fluid"
-          src="src/assets/medical-logo.png"
+          src="@/assets/medical-logo.png"
           alt=""
           style="width: 100%"
         />
